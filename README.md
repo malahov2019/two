@@ -1,9 +1,5 @@
-# Team name
-Team slogan 
-
-## Members:
-* Member 1
-* Member 2
-* Member 3
-* Member 4
-* Member 5
+# Forward to success
+ There are no good languages, there are good programmers
+## Members
+ * Malakhov Roman
+ * Golden Ilya
